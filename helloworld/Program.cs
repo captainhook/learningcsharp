@@ -120,3 +120,6 @@ Console.WriteLine($"Int stack: {string.Join(", ", intStack)}"); // Stack variabl
 
 var anonymousObject = new { Name = "Diana", Age = 28 };
 Console.WriteLine($"Anonymous Object - Name: {anonymousObject.Name}, Age: {anonymousObject.Age}"); // Anonymous object variable
+
+var nullableDateTime = (DateTime?)null;
+Console.WriteLine($"Nullable DateTime: {nullableDateTime}"); // Nullable DateTime variable
