@@ -1,0 +1,34 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+
+## IDE folders
+.vs/
+.idea/
+
+## VS Code settings (optional to ignore)
+.vscode/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+
+## NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+## Logs
+*.log
+
+## Local databases / temp files
+*.db
+*.mdf
+*.ldf
+*.tmp
+*.temp
+
+## OS-specific
+[Tt]humbs.db
+[Dd]esktop.ini
